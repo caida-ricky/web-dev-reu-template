@@ -3,6 +3,7 @@ This test is to evaluate the proficiency of essential technical skills required 
  - Meteor installation: https://www.meteor.com/install
  - The tutorial: https://react-tutorial.meteor.com/simple-todos/
  - Github repository: https://github.com/meteor/react-tutorial
+
 You are supposed to install the Meteor environment in your (virtual) machine and then follow Step 1-6 in the tutorial to build a Todo app. Although you can find the complete code in (https://github.com/meteor/react-tutorial/tree/master/src/simple-todos/step06), it is recommended that you go through the tutorial to familiar the environment.
 
 # Your Tasks
